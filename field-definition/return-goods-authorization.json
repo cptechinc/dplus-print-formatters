@@ -1,0 +1,125 @@
+{
+    "header": {
+        "RGA Number": {
+            "type": "C"
+        },
+        "Customer ID": {
+            "type": "C"
+        },
+        "Customer Name": {
+            "type": "C"
+        },
+        "Ship-To ID": {
+            "type": "C"
+        },
+        "Ship-To Name": {
+            "type": "C"
+        },
+        "Contact": {
+            "type": "C"
+        },
+        "Customer PO": {
+            "type": "C"
+        },
+        "Return Warehouse ID": {
+            "type": "C"
+        },
+        "Return Warehouse Name": {
+            "type": "C"
+        },
+        "Return Whse Address 1": {
+            "type": "C"
+        },
+        "Return Whse Address 2": {
+            "type": "C"
+        },
+        "Return Whse Address 3": {
+            "type": "C"
+        },
+        "Return Whse Phone Number": {
+            "type": "C"
+        },
+        "Return Whse Fax Number": {
+            "type": "C"
+        },
+        "Return Ship Via Code": {
+            "type": "C"
+        },
+        "Return Ship Via Desc": {
+            "type": "C"
+        },
+        "Return Ship Account Nbr": {
+            "type": "C"
+        },
+        "Manager Initials": {
+            "type": "C"
+        },
+        "Restock Fee": {
+            "type": "C"
+        },
+        "Issue Credit": {
+            "type": "C"
+        },
+        "Issue Credit Comment": {
+            "type": "C"
+        },
+        "Page Number": {
+            "type": "N"
+        },
+        "Current Date": {
+            "type": "D"
+        }
+    },
+    "detail": {
+        "Item ID": {
+            "type": "C"
+        },
+        "Item Description 1": {
+            "type": "C"
+        },
+        "Item Description 2": {
+            "type": "C"
+        },
+        "Unit of Measure": {
+            "type": "C"
+        },
+        "Original Warehouse ID": {
+            "type": "C"
+        },
+        "Original Warehouse Name": {
+            "type": "C"
+        },
+        "Original Invoice Number": {
+            "type": "C"
+        },
+        "Reason Code": {
+            "type": "C"
+        },
+        "Reason Description": {
+            "type": "C"
+        },
+        "Reason Comment": {
+            "type": "C"
+        },
+        "Quantity To Return": {
+            "type": "N"
+        },
+        "Unit Price": {
+            "type": "N"
+        },
+        "To Return Amount": {
+            "type": "N"
+        }
+    },
+    "total": {
+        "Quantity To Return": {
+            "type": "N"
+        },
+        "To Return Amount": {
+            "type": "N"
+        },
+        "Continued": {
+            "type": "C"
+        }
+    }
+}

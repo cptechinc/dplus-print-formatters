@@ -1,0 +1,29 @@
+{
+	"name": "cptechinc/dplus-print-formatters",
+    "type": "library",
+    "description": "Dplus Print Formatters",
+    "keywords": ["dplus-print-format", "dplus-print"],
+	"homepage": "https://github.com/cptechinc/dplus-print-formatters",
+	"authors": [
+        {
+            "name": "Paul Gomez",
+            "email": "paul@cptechinc.com",
+            "homepage": "https://www.cptechinc.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Barbara Bullemer",
+            "email": "barbara@cptechinc.com",
+            "homepage": "https://www.cptechinc.com",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+		"atk4/dsql": "1.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Dplus\\PrintFormatters\\": "src/"
+		}
+	}
+}
