@@ -2,14 +2,15 @@
     namespace Dplus\PrintFormatters;
 
 	use Dplus\Base\ScreenMaker;
-    use Dplus\Base\ScreenFormatter;
-	use Dplus\Base\HTMLWriter;
+    use Dplus\Base\ScreenMakerFormatter;
+	use Dplus\Content\HTMLWriter;
+    use Dplus\Content\Table;
 	use Dplus\ProcessWire\DplusWire;
 	use Picqer\Barcode\BarcodeGeneratorPNG;
 
 	class ReturnGoodsAuthorizationFormatter extends ScreenMakerFormatter {
-		protected $tabletype = 'grid';
-		protected $type = 'return-goods-authorization';
+		protected $screentype = 'grid';
+		protected $code = 'return-goods-authorization';
 		protected $title = 'Return Goods Authorization';
 		protected $datafilename = 'rga'; // rga.json
 		protected $testprefix = 'rga-return-goods-authorization';
