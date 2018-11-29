@@ -155,7 +155,7 @@
 		 */
 		protected function generate_termsection() {
 			$bootstrap = new HTMLWriter();
-			$terms = $bootstrap->div('class=form-group', DplusWire::wire('pages')->get("/config/documents/$this->type/")->terms);
+			$terms = $bootstrap->div('class=form-group', DplusWire::wire('pages')->get("/config/documents/$this->code/")->terms);
 			$content = str_replace(array('{shipvia}', '{shipviaacct}'), array($this->json['data']['header']['Return Ship Via Desc'], $this->json['data']['header']['Return Ship Account Nbr']), $terms);
 			$content .= $bootstrap->br();
 			return $content;
