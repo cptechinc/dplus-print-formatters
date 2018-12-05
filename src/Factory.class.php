@@ -20,7 +20,8 @@
 		 * @var array
 		 */
 		protected $formatters = array(
-			'return-goods-authorization' => 'ReturnGoodsAuthorizationFormatter'
+			'return-goods-authorization' => 'ReturnGoodsAuthorizationFormatter',
+			'shortpay'                   => 'ShortPayFormatter'
 		);
 		
 		/**

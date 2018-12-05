@@ -1,0 +1,279 @@
+{
+    "colcount": 4,
+    "header": {
+        "colcount": 2,
+        "rowcount": 1,
+        "columns": {
+            "Short Pay Number": {
+                "line": 1,
+                "column": 1,
+                "col-length": 1,
+                "label": "Short Pay #",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Customer ID": {
+                "line": 2,
+                "column": 1,
+                "col-length": 1,
+                "label": "Account #",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Customer Name": {
+                "line": 2,
+                "column": 2,
+                "col-length": 1,
+                "label": "Customer ",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Contact": {
+                "line": 1,
+                "column": 2,
+                "col-length": 1,
+                "label": "Attention",
+                "before-decimal": 3,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Customer PO": {
+                "line": 3,
+                "column": 2,
+                "col-length": 1,
+                "label": "PO #",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Salesperson ID": {
+                "line": 0,
+                "column": 0,
+                "col-length": 1,
+                "label": "Sales Person",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Salesperson Name": {
+                "line": 0,
+                "column": 0,
+                "col-length": 1,
+                "label": "Sales Person",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Manager Initials": {
+                "line": 0,
+                "column": 0,
+                "col-length": 1,
+                "label": "Manager Approval",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Current Date": {
+                "line": 1,
+                "column": 1,
+                "col-length": 1,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": "m/d/Y",
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            }
+        }    
+    },
+    "detail": {
+        "rowcount": 1,
+        "colcount": 7,
+        "columns": {
+            "Item ID": {
+                "line": 1,
+                "column": 1,
+                "col-length": 1,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Item Description 1": {
+                "line": 1,
+                "column": 2,
+                "col-length": 1,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Item Description 2": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Original Invoice Number": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Original Invoice Date": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Original Ship Via Code": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Original Ship Via Desc": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Comment": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Carrier Damage / Loss": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Carrier Claim Filed": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Carrier D/L Item ID": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Carrier D/L Item Quantity": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            },
+            "Short Pay Amount": {
+                "line": 0,
+                "column": 0,
+                "col-length": 0,
+                "label": "Date",
+                "before-decimal": false,
+                "after-decimal": false,
+                "date-format": false,
+				"input": false,
+				"data-justify": "left",
+				"label-justify": "left"
+            }
+        }
+    }
+}

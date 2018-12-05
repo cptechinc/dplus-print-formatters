@@ -1,0 +1,72 @@
+{
+    "header": {
+        "Short Pay Number": {
+            "type": "C"
+        },
+        "Customer ID": {
+            "type": "C"
+        },
+        "Customer Name": {
+            "type": "C"
+        },
+        "Contact": {
+            "type": "C"
+        },
+        "Customer PO": {
+            "type": "C"
+        },
+        "Salesperson ID": {
+            "type": "C"
+        },
+        "Salesperson Name": {
+            "type": "C"
+        },
+        "Manager Initials": {
+            "type": "C"
+        },
+        "Current Date": {
+            "type": "D"
+        }
+    },
+    "detail": {
+        "Item ID": {
+            "type": "C"
+        },
+        "Item Description 1": {
+            "type": "C"
+        },
+        "Item Description 2": {
+            "type": "C"
+        },
+        "Original Invoice Number": {
+            "type": "C"
+        },
+        "Original Invoice Date": {
+            "type": "D"
+        },
+        "Original Ship Via Code": {
+            "type": "C"
+        },
+        "Original Ship Via Desc": {
+            "type": "C"
+        },
+        "Comment": {
+            "type": "C"
+        },
+        "Carrier Damage / Loss": {
+            "type": "C"
+        },
+        "Carrier Claim Filed": {
+            "type": "C"
+        },
+        "Carrier D/L Item ID": {
+            "type": "C"
+        },
+        "Carrier D/L Item Quantity": {
+            "type": "C"
+        },
+        "Short Pay Amount": {
+            "type": "N"
+        }
+    }
+}
