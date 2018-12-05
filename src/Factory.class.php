@@ -1,7 +1,7 @@
 <?php
 	namespace Dplus\PrintFormatters;
 
-	use Dplus\Base\ScreenMaker;
+	use Dplus\ScreenFormatters\ScreenMaker;
 
 	/**
 	 * Factory to load all the Screen Formatters

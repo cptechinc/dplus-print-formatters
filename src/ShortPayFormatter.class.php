@@ -1,14 +1,14 @@
 <?php
     namespace Dplus\PrintFormatters;
 
-	use Dplus\Base\ScreenMaker;
-    use Dplus\Base\ScreenMakerFormatter;
+	use Dplus\ScreenFormatters\ScreenMaker;
+    use Dplus\ScreenFormatters\ScreenMakerFormatter;
 	use Dplus\Content\HTMLWriter;
     use Dplus\Content\Table;
 	use Dplus\ProcessWire\DplusWire;
 	use Picqer\Barcode\BarcodeGeneratorPNG;
 
-	class ReturnGoodsAuthorizationFormatter extends ScreenMakerFormatter {
+	class ShortPayFormatter extends ScreenMakerFormatter {
 		protected $screentype = 'grid';
 		protected $code = 'shortpay';
 		protected $title = 'Short Pay';
