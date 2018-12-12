@@ -1,0 +1,30 @@
+{
+    "error": false,
+    "errormsg": "",
+    "Short Pay Number": "00000013",
+    "file-type": "short-pay",
+    "data": {
+        "Short Pay Number": "00000013",
+        "Customer ID": "3050",
+        "Customer Name": "ACCURATE PRESS, INC. (WOW)",
+        "Contact": "Accounting Dept",
+        "Customer PO": "P00403064",
+        "Salesperson ID": "brg",
+        "Salesperson Name": "Salesperson brg Name",
+        "Manager Initials": "BRG",
+        "Current Date": "12/05/18",
+        "Item ID": "N4",
+        "Item Description 1": "SHIPPING-CARRIER DAMAGE/LOSS",
+        "Item Description 2": "",
+        "Original Invoice Number": "1000018500",
+        "Original Invoice Date": "10/01/18",
+        "Original Ship Via Code": "UPS",
+        "Original Ship Via Desc": "UPS Ground",
+        "Comment": "These are required comments",
+        "Carrier Damage/Loss": "Damaged",
+        "Carrier Claim Filed": "Yes",
+        "Carrier D/L Item ID": "HC18302200",
+        "Carrier D/L Quantity": "7.00",
+        "Short Pay Amount": "52.08"
+    }
+}
