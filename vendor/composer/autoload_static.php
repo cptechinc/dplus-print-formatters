@@ -23,6 +23,7 @@ class ComposerStaticInit18af68361bfffc22a6085fdaa5047730
     public static $classMap = array (
         'Dplus\\PrintFormatters\\PrintFormatterFactory' => __DIR__ . '/../..' . '/src/Factory.class.php',
         'Dplus\\PrintFormatters\\ReturnGoodsAuthorizationFormatter' => __DIR__ . '/../..' . '/src/ReturnGoodsAuthorizationFormatter.class.php',
+        'Dplus\\PrintFormatters\\ShortPayFormatter' => __DIR__ . '/../..' . '/src/ShortPayFormatter.class.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

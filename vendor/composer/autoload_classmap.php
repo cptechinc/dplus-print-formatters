@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'Dplus\\PrintFormatters\\PrintFormatterFactory' => $baseDir . '/src/Factory.class.php',
     'Dplus\\PrintFormatters\\ReturnGoodsAuthorizationFormatter' => $baseDir . '/src/ReturnGoodsAuthorizationFormatter.class.php',
+    'Dplus\\PrintFormatters\\ShortPayFormatter' => $baseDir . '/src/ShortPayFormatter.class.php',
 );
