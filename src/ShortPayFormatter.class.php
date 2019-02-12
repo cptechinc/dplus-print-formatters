@@ -11,7 +11,7 @@
 		protected $screentype = 'grid';
 		protected $code = 'shortpay';
 		protected $title = 'Short Pay';
-		protected $datafilename = 'shortpay'; // shortpay.json
+		protected $datafilename = 'shortpay'; // rga.json
 		protected $testprefix = 'shortpay';
 		protected $datasections = array();
 
